@@ -10,6 +10,7 @@ import PlaceOrder from './pages/PlaceOrder'
 import Login from './pages/Login'
 import Cart from './pages/Cart'
 import Navbar from './components/Navbar'
+import House from './components/House'
 const App = () => {
   return (
     <div className='px-4 sm:px-[5vw] md:px-[7vw] lg:px-[9vw]'>
